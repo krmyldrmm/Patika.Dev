@@ -1,1 +1,2 @@
-# Patika.Dev
+# 1- Üniversite Yönetim Sistemi
+
